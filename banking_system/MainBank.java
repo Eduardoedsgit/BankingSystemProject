@@ -20,9 +20,7 @@ package banking_system;
 
             /*Chamando o método status_conta() e conta_menu() para imprimir na tela o status da conta*/
             conta.status_conta();
-            conta.menu_conta();  
-            
-                       
+            conta.menu_conta();                         
         }
  }
 
