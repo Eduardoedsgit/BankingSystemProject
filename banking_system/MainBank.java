@@ -18,7 +18,7 @@ package banking_system;
             conta.saldo = 100.00f;
             conta.menu = 0;
 
-            /*Chamdno o método status_conta para imprimir na tela o status da conta*/
+            /*Chamando o método status_conta() e conta_menu() para imprimir na tela o status da conta*/
             conta.status_conta();
             conta.menu_conta();  
             
